@@ -1,0 +1,1 @@
+import 'desafio-conceitos-reactjs/node_modules/~/@testing-library/jest-dom/extend-expect';
